@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the official GitHub repository for "Plz Help" - AI Robot, an engaging puzzle game where you collaborate with an AI robot to solve challenges and guide it to the charging ports. This repository serves as the central hub for development, collaboration, and issue tracking for the game.
+Welcome to the official GitHub repository for "Plz Help" - AI Robot, an engaging puzzle game where you collaborate with an AI robot to solve challenges and guide it to the charging ports. This repository serves as the central hub for development, collaboration, and issue tracking for the game. game direct link: https://wassoup.itch.io/plz
 
 ## Game Description
 
